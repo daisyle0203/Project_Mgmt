@@ -1,10 +1,9 @@
 {
   "name": "project_mgmt",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-   "start": "node server/index.js",
+    "start": "node server/index.js",
     "dev": "nodemon server/index.js"
   },
   "repository": {
@@ -21,12 +20,14 @@
     "graphql": "^15.8.0",
     "mongoose": "^6.3.5"
   },
-   "devDependencies": {
+  "devDependencies": {
     "dotenv": "^16.0.1",
     "nodemon": "^2.0.16"
   },
   "bugs": {
     "url": "https://github.com/daisyle0203/Project_Mgmt/issues"
   },
-  "homepage": "https://github.com/daisyle0203/Project_Mgmt#readme"
+  "homepage": "https://github.com/daisyle0203/Project_Mgmt#readme",
+  "keywords": [],
+  "description": ""
 }
